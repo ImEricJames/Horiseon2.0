@@ -12,3 +12,6 @@ and so it is complient with visually impaired users.
 
 ## Page alignment 
 aligned items and text in sections, as well as resized text
+
+## Original Source Code Cloned from 
+https://github.com/coding-boot-camp/urban-octo-telegram.git
